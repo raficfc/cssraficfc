@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+#neww
+{
+    height: 70px;
+}
+#news
+{
+    height: 10px;
+}
+.nav-link
+{
+    font-size: 18px;
+    color: black;
+    display: block;
+}
+#one
+{
+    height: 75px;
+    
+}
+#news
+{
+    background-color: #068f06;
+    height: 22px;
+    margin-left: 1050px;
+    color: white;
+    font-size: 13px;
+    width: 88pxpx;
+    margin-bottom: 22px;
+    padding-bottom: 22px;
+}
+.two
+{
+    margin-left: 1033px;
+    font-size: 10px;
+    margin-top: -17px;
+    color: #777a0e
+}
+.cool
+{
+    height: 10px;
+    width: 13px;
+    margin-bottom: 3px;
+    margin-left: -27px;
+
+}
+.navbar-nav
+{
+    
+    
+}
+.navbar-nav:hover
+{
+    font-size: 20px;
+}
+#golds
+{
+    width: 175px;
+    height: 175px;
+    margin-left: 150px;
+}
+#h1cl
+{
+    margin-left: 550px;
+    margin-top: -175px;
+}
+#h2cl
+{
+    margin-left: 385px;
+    margin-top: 18px;
+}

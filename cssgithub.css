@@ -1,0 +1,155 @@
+body
+{
+    background-color: #1a1a1a;
+    margin: auto;
+    
+    
+    
+}
+#centr
+{
+
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    
+}
+h2
+{
+    font-style: inherit;
+    color: white;
+    text-align: center;
+    
+}
+.one
+{
+   background-color: #161b22;
+   width: 221px;
+   height: 145px;
+   margin-left: 648px;
+   border-radius: 5px;
+   border-color: aliceblue
+   
+   padding-left: 30px;
+   padding-top: 13px;
+   padding-left: 15px;
+   border-radius: 5px; 
+   border-color: white
+
+   
+}
+#cont
+{
+    align-items: center;
+    color: white;
+
+}
+#butt
+{
+    background-color: #238636;
+    color:white;
+    margin-top: 16px;
+    margin-left: -3px;
+    width: 214px;
+    height: 25px;
+    padding-right: 15px;
+    border-radius: 6px;
+}
+#Username
+{
+    border-radius: 5px;
+    width: 200px;
+    height: 18px;
+    color: white;
+    background-color: #1a1a1a;
+    border-color: white;
+    margin-bottom: 15px;
+    
+}
+#password
+{
+    border-radius: 5px;
+    width: 200px;
+    height: 18px;
+    color: white;
+    background-color: #1a1a1a;
+    border-color: white;
+    margin-top: 5px;
+    
+}
+#pass
+{
+    
+    margin-left: 1px;
+    margin-bottom: 1px;
+    color: white;
+}
+#lik
+{
+    font-size: 11px;
+    margin-left: 69px;
+    margin-top: 20px;
+    color: #58a6ff;
+}
+#ca
+{
+    border-radius: 5px;
+    border-color: aliceblue
+    
+}
+.two
+{
+    width: 191px;
+    height: 37px;
+    background-color: #161b22;
+    color: white;
+    margin-left: 662px;
+    margin-top: 18px;
+    margin-bottom: 12px;
+    border-radius: 5px;
+    font-size: 10px;
+    padding-left: 20px;
+
+}
+.ac
+{
+    
+    font-size: 12px;
+padding-left: 2px;
+padding-top: 90px;
+margin-top: 10px;
+color: #1f6feb;
+}
+#ooi
+{
+    font-size: 12px;
+    padding-left: 2px;
+    padding-top: 10px;
+    
+}
+
+.three
+{
+   padding-left: 627px;
+    
+}
+.new
+{
+    color: #1f6feb;
+    margin-left: 7px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
